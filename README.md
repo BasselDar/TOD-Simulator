@@ -1,21 +1,51 @@
-# TOD-Simulator
+# TOD-Simulator 🌆
 
-A Transit-Oriented Development (TOD) Simulator for urban planning and analysis.
+A powerful Transit-Oriented Development (TOD) Simulator for urban planning and analysis, designed to help urban planners and developers make data-driven decisions for sustainable city development.
 
-## Features
+## 🚀 Overview
 
-- Interactive visualization of transit stations and their coverage areas
-- TOD score calculation based on multiple factors
-- Support for different transit types (Metro, Bus, Tram, Train)
-- Walkability analysis
-- Land use optimization
-- Real-time filtering and analysis
+TOD-Simulator is a comprehensive tool that analyzes and visualizes Transit-Oriented Development opportunities in urban areas. It helps stakeholders understand the potential for development around transit stations by considering multiple factors such as walkability, land use, and transit accessibility.
 
-## Installation
+### 📸 Application Preview
+
+![Site Preview](sitepreview.png)
+*Main dashboard showing transit station analysis and coverage areas*
+
+![Site Preview 2](sitepreview2.png)
+*Detailed visualization of transit networks and development metrics*
+
+## ✨ Key Features
+
+- **Interactive Transit Visualization**
+  - Real-time visualization of transit stations and coverage areas
+  - Multi-layer mapping system
+  - Dynamic heat maps for various metrics
+
+- **Advanced Analytics**
+  - TOD score calculation based on international standards
+  - Walkability analysis with isochrone mapping
+  - Land use optimization recommendations
+  - Density and diversity metrics
+
+- **Transit Support**
+  - Metro stations and lines
+  - Bus networks and stops
+  - Tram systems
+  - Railway stations
+  - Multi-modal integration analysis
+
+- **Data Analysis**
+  - Real-time filtering and sorting
+  - Custom report generation
+  - Data export capabilities
+  - Historical trend analysis
+
+## 🛠️ Installation
 
 1. Clone the repository:
 ```bash
 git clone https://github.com/BasselDar/TOD-Simulator.git
+cd TOD-Simulator
 ```
 
 2. Install dependencies:
@@ -28,14 +58,39 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Data Sources
+## 📊 Data Sources
 
-The simulator uses OpenStreetMap (OSM) data for Egypt, including:
+The simulator leverages comprehensive OpenStreetMap (OSM) data for Egypt, including:
 - Transit stations and stops
-- Railway networks
-- Traffic information
-- Transport infrastructure
+- Railway networks and infrastructure
+- Road networks and traffic patterns
+- Land use and zoning information
+- Building footprints and heights
+- Points of interest (POIs)
 
-## License
+## 💡 Use Cases
 
-MIT License
+- Urban Planning Departments
+- Transit Authorities
+- Real Estate Developers
+- Urban Research Institutions
+- City Planning Consultants
+- Environmental Impact Assessment
+
+## 📫 Contact
+
+For questions, suggestions, or collaboration opportunities:
+- Email: basseldar66@gmail.com
+- GitHub Issues: [Create an issue](https://github.com/BasselDar/TOD-Simulator/issues)
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
