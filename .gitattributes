@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.your_large_file_extension filter=lfs diff=lfs merge=lfs -text
+src/egypt_osm/*.shp filter=lfs diff=lfs merge=lfs -text
+src/egypt_osm/*.dbf filter=lfs diff=lfs merge=lfs -text
+src/egypt_osm/*.shx filter=lfs diff=lfs merge=lfs -text
