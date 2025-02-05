@@ -8,10 +8,12 @@ TOD-Simulator is a comprehensive tool that analyzes and visualizes Transit-Orien
 
 ### 📸 Application Preview
 
-![Site Preview](sitepreview.png)
+<img src="./assets/sitepreview.jpg" alt="Site Preview" width="800"/>
+
 *Main dashboard showing transit station analysis and coverage areas*
 
-![Site Preview 2](sitepreview2.png)
+<img src="./assets/sitepreview2.jpg" alt="Site Preview 2" width="800"/>
+
 *Detailed visualization of transit networks and development metrics*
 
 ## ✨ Key Features
